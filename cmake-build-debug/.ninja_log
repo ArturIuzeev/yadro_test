@@ -1,0 +1,14 @@
+# ninja log v5
+7	1121	1715883211907744611	CMakeFiles/yadro_test.dir/main.cpp.o	62eeffccce06db4
+4	91	1715883406621543024	build.ninja	e21df943f9e6bafb
+7	770	1715882941643751488	CMakeFiles/yadro_test.dir/src/Club/client.cpp.o	8145d95dabfc028c
+1	1054	1715882830068012980	CMakeFiles/yadro_test.dir/src/main.cpp.o	4aeeb8bdff11e459
+6	1620	1715882942491826353	CMakeFiles/yadro_test.dir/src/Club/club.cpp.o	97d46ed458c60c3b
+8	2301	1715883288282936276	CMakeFiles/yadro_test.dir/src/ClubLogger/day_logger.cpp.o	ec7eaab60c86bc5
+2301	2359	1715883288348262102	yadro_test	7ad11260d99ad4d0
+6	780	1715882941653926965	CMakeFiles/yadro_test.dir/src/Club/club_util.cpp.o	80133ad63dde0914
+6	788	1715882941661410064	CMakeFiles/yadro_test.dir/src/Club/table.cpp.o	696370d053fac162
+4	85	1715883406621543024	build.ninja	e21df943f9e6bafb
+8	1087	1715883407714361789	CMakeFiles/yadro_test.dir/src/main.cpp.o	4aeeb8bdff11e459
+8	2316	1715883408940133197	CMakeFiles/yadro_test.dir/src/ClubLogger/day_logger.cpp.o	ec7eaab60c86bc5
+2316	2370	1715883409003117367	yadro_test	a4f4edf5840eecdf
